@@ -1,0 +1,15 @@
+org_name: nullstone
+name: aws-sns-publish
+friendly_name: SNS Publisher Access
+description: Capability that grants the ability to publish to an SNS topic
+category: capability
+subcategory: datastores
+provider_types:
+    - aws
+platform: sns
+subplatform: ""
+type: ""
+appCategories:
+    - container
+    - serverless
+is_public: true
